@@ -1,0 +1,23 @@
+{
+  "name": "star-wars",
+  "version": "1.0.0",
+  "description": "AngularJS app using [swapi.co](http://swapi.co) API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedrakpc/star-wars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedrakpc/star-wars/issues"
+  },
+  "homepage": "https://github.com/sedrakpc/star-wars#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
